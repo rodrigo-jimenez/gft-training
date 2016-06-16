@@ -7,3 +7,4 @@
 # modif #6 - commit 2'
 
 # modif #8 - for feature 1
+# feature 2
